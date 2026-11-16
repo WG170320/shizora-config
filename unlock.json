@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "claim_link": "https://temu.com/s/QsrumB2O721CO1LI",
   "invite_link": "https://temu.com/s/QsrumB2O721CO1LI",
   "invite_link_2": "",
@@ -38,11 +38,11 @@
   "unlock_packages": [
     "com.gearup.booster"
   ],
-  "funnel_enabled": true,
+  "funnel_enabled": false,
   "temu_reward": 25,
   "gearup_reward": 50,
   "funnel_open_secs": 10,
-  "recheck_enabled": true,
+  "recheck_enabled": false,
   "recheck_link": "https://youtu.be/LAbhwaKv1CA?si=XMVln-6q9eV9CG0D",
   "recheck_partner": "YouTube",
   "recheck_hours": 0.5,
